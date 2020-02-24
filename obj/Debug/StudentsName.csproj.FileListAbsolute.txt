@@ -1,0 +1,19 @@
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\bin\Debug\StudentsName.exe.config
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\bin\Debug\StudentsName.exe
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\bin\Debug\StudentsName.pdb
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\obj\Debug\StudentsName.csprojAssemblyReference.cache
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\obj\Debug\StudentsName.Properties.Resources.resources
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\obj\Debug\StudentsName.csproj.GenerateResource.cache
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\obj\Debug\StudentsName.csproj.CoreCompileInputs.cache
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\obj\Debug\StudentsName.exe
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\obj\Debug\StudentsName.pdb
+D:\Manukau Institute of Technology\Quarter 08\Applied Data Structures\Test02\StudentsName\obj\Debug\StudentsName.Form1.resources
+D:\Test02\StudentsName\bin\Debug\StudentsName.exe.config
+D:\Test02\StudentsName\bin\Debug\StudentsName.exe
+D:\Test02\StudentsName\bin\Debug\StudentsName.pdb
+D:\Test02\StudentsName\obj\Debug\StudentsName.csprojAssemblyReference.cache
+D:\Test02\StudentsName\obj\Debug\StudentsName.Form1.resources
+D:\Test02\StudentsName\obj\Debug\StudentsName.Properties.Resources.resources
+D:\Test02\StudentsName\obj\Debug\StudentsName.csproj.GenerateResource.cache
+D:\Test02\StudentsName\obj\Debug\StudentsName.exe
+D:\Test02\StudentsName\obj\Debug\StudentsName.pdb
